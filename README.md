@@ -1,3 +1,1 @@
 # projet-git
-Participant : Yanis
-
